@@ -6,11 +6,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img alt="coding" width="400" align="right" src="https://imgs.search.brave.com/BATPum-9rBgY_WWnKpMyV79Alk9XuyxEtlYQ4LOcMAI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3FnUVVn/Z0FDM1BmdjY4N3FQ/Qy8yMDAuZ2lmP2Np/ZD03OTBiNzYxMTEw/eWVtM2gzbmxqb2sx/YXU2czNjOXh6am4z/a2w3aHF4NDIwcGhs/ajUmZXA9djFfZ2lm/c19zZWFyY2gmcmlk/PTIwMC5naWYmY3Q9/Zw.gif">
 
-- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://shimmering-valkyrie-e45fa5.netlify.app](https://shimmering-valkyrie-e45fa5.netlify.app)
-
-- 📫 How to reach me **karantanwar5005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
